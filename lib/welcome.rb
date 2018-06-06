@@ -10,3 +10,4 @@ run ruby lib/welcome.#!/usr/bin/env ruby -wKU
 puts "Welcome to Tic Tac Toe"
 "Welcome to Tic Tac Toe"
 ruby lib/welcome.#!/usr/bin/env ruby -wKU
+puts "Welcome to Tic Tac Toe!" in lib/welcome.#!/usr/bin/env ruby -wKU
